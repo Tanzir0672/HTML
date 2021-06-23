@@ -1,0 +1,29 @@
+.tanzir111{
+        color: gold;
+        background: black;
+        padding: 100px;
+        font-size: 20px;
+}
+/*------------css div------------*/
+.Navigation{
+    height: 30px;
+    width: 960px;
+    background: blue
+}
+.Header{
+    height: 200px;
+    width: 960px;
+    background: red
+}
+.content{
+    height: 90px;
+    width: 960px;
+    background: skyblue
+}
+.Left content{}
+.Right content{}
+.footer{
+    height: 60px;
+    width: 960px;
+    background: black
+}
